@@ -1,0 +1,2 @@
+rootProject.name = "UpLoad"
+include ':app'
